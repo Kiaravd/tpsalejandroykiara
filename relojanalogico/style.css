@@ -1,0 +1,26 @@
+.reloj {
+  margin: 0px auto;
+  width: 450px;
+  height: 450px;
+}
+circle {
+  fill: none;
+}
+.segundos,.minutos,.horas {
+  transform-origin: center;
+  stroke-linecap: round;
+  stroke-width: 3px;
+}
+.horas {
+  stroke: #373232;
+}
+.minutos {
+  stroke: #373232;
+}
+.segundos {
+  stroke: #B60F0F;
+}
+
+  
+
+  
